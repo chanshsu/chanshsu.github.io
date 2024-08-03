@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers have been accepted to IRI 2024 and AIHC workshop.
+Two papers have been accepted by IRI 2024 and AIHC workshop respectively.
