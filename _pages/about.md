@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chan Hsu - About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm a second-year doctoral student in the Department of Information Management at National Sun Yat-sen University (NSYSU), advised by Prof. Yihuang Kang. Before joining the PhD program, I received my M.S. from the same department in 2022.
 
+My research interests are Statistical Machine Learning, interpretability, and causality. If you would like to chat about potential collaboration or common interests, feel free to reach me at chanshsu@gmail.com.
+
+### News!
+- Aug '24: In attending IEEE IRI & IEEE MIPR. Present three papers at the IRI, AIHC workshop, and BDH workshop.
+- Jun '24: Our paper "Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models" was accepted by the Big Data in Healthcare workshop.
+- May '24: Our papers "Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation" and "Subgroup analysis via Model-based Rule Forest" were accepted by the IEEE IRI and the IEEE AIHC workshop.
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +56,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
