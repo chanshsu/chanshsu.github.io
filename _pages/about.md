@@ -10,7 +10,7 @@ I'm a second-year doctoral student in the Department of Information Management a
 
 My research interests are Statistical Machine Learning, interpretability, and causality. If you would like to chat about potential collaboration or common interests, feel free to reach me at chanshsu@gmail.com.
 
-### News!
+### News
 - Aug '24: In attending IEEE IRI & IEEE MIPR. Present three papers at the IRI, AIHC workshop, and BDH workshop.
 - Jun '24: Our paper "Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models" was accepted by the Big Data in Healthcare workshop.
 - May '24: Our papers "Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation" and "Subgroup analysis via Model-based Rule Forest" were accepted by the IEEE IRI and the IEEE AIHC workshop.
