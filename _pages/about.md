@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a second-year doctoral student in the Department of Information Management at National Sun Yat-sen University (NSYSU), advised by Prof. Yihuang Kang. Before joining the PhD program, I received my M.S. from the same department in 2022.
+I'm a second-year doctoral student in the Department of Information Management at National Sun Yat-sen University (NSYSU), advised by Prof. Yihuang Kang. Before joining the PhD program, I received my M.S. in Information Systems from the same department in 2022.
 
 My research interests are Statistical Machine Learning, interpretability, and causality. If you would like to chat about potential collaboration or common interests, feel free to reach me at chanshsu@gmail.com.
 
