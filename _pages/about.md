@@ -10,7 +10,7 @@ I'm a second-year doctoral student in the Department of Information Management a
 
 My research interests are Statistical Machine Learning, Interpretability, and Causality. If you would like to chat about potential collaboration or common interests, feel free to reach me at chanshsu@gmail.com.
 
-[Link to CV]("https://https://github.com/chanshsu/chanshsu.github.io/files/ChanHsu_CV_pub.pdf")
+[Link to CV]("https://chanshsu.github.io/files/ChanHsu_CV_pub.pdf")
 
 ### News
 - Aug '24: In attending IEEE IRI & IEEE MIPR. Present three papers at the IRI, AIHC workshop, and BDH workshop.
