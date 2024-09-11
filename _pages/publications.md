@@ -15,7 +15,7 @@ Find below a selection of my publications and preprints; a full list can be foun
 
 - **Chan Hsu**, Jun-Ting Wu, Yihuang Kang. (2024). Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI)_. [Arxiv Link](https://arxiv.org/abs/2408.15055)
 
-- I-Ling Cheng, **Chan Hsu**, Pei-Ju Lee, Chan-Tung Ku, Yihuang Kang. (2024). Subgroup analysis via Model-based Rule Forest. I-Ling Cheng, Chan Hsu, Pei-Ju Lee, Chan-Tung Ku, Yihuang Kang. (2024). Subgroup analysis via Model-based Rule Forest.In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AI for Healthcare workshop_. [Arxiv Link](https://arxiv.org/abs/2408.15057)
+- I-Ling Cheng, **Chan Hsu**, Pei-Ju Lee, Chan-Tung Ku, Yihuang Kang. (2024). Subgroup analysis via Model-based Rule Forest. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AI for Healthcare workshop_. [Arxiv Link](https://arxiv.org/abs/2408.15057)
 
 - Hei-Liam Chow, **Chan Hsu**, Shih-Yi Chien. (2024). Psychosocial Determinants of Dementia Progression: Insights from Advanced Data Analytics using the Taiwan Longitudinal Study in Aging. In _IEEE International Conference on Human-Machine Systems (ICHMS)_. [Link](https://ieeexplore.ieee.org/abstract/document/10555712)
 
