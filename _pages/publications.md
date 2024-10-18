@@ -11,11 +11,11 @@ Find below a selection of my publications and preprints; a full list can be foun
 - Shih-Yi Chien, Shiau-Fang Chao, Yihuang Kang, **Chan Hsu**, Meng-Hsuan Yu, Chan-Tung Ku. (2022). Understanding Predictive Factors of Dementia for Older Adults: A Machine Learning Approach for Modeling Dementia Influencers. _International Journal of Human-Computer Studies (IJHCS)_. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000611)
 
 ## Conference papers
-- Chih-Yuan Li, Jun-Ting Wu, **Chan Hsu**, Ming-Yen Lin, Yihuang Kang. (2024). Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models. In _IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), BDH workshop_. [Link](https://ieeexplore.ieee.org/document/10707958) [Arxiv Link](https://arxiv.org/abs/2409.02530)
+- Chih-Yuan Li, Jun-Ting Wu, **Chan Hsu**, Ming-Yen Lin, Yihuang Kang. (2024). Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models. In _IEEE International Conference on Multimedia Information Processing and Retrieval (MIPR), BDH workshop_. [Link](https://ieeexplore.ieee.org/document/10707958), [Arxiv Link](https://arxiv.org/abs/2409.02530)
 
-- **Chan Hsu**, Jun-Ting Wu, Yihuang Kang. (2024). Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI)_. [Link](https://ieeexplore.ieee.org/document/10703737) [Arxiv Link](https://arxiv.org/abs/2408.15055)
+- **Chan Hsu**, Jun-Ting Wu, Yihuang Kang. (2024). Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI)_. [Link](https://ieeexplore.ieee.org/document/10703737), [Arxiv Link](https://arxiv.org/abs/2408.15055)
 
-- I-Ling Cheng, **Chan Hsu**, Pei-Ju Lee, Chan-Tung Ku, Yihuang Kang. (2024). Subgroup analysis via Model-based Rule Forest. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AIHC workshop_. [Link](https://ieeexplore.ieee.org/document/10703743) [Arxiv Link](https://arxiv.org/abs/2408.15057)
+- I-Ling Cheng, **Chan Hsu**, Pei-Ju Lee, Chan-Tung Ku, Yihuang Kang. (2024). Subgroup analysis via Model-based Rule Forest. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AIHC workshop_. [Link](https://ieeexplore.ieee.org/document/10703743), [Arxiv Link](https://arxiv.org/abs/2408.15057)
 
 - Hei-Liam Chow, **Chan Hsu**, Shih-Yi Chien. (2024). Psychosocial Determinants of Dementia Progression: Insights from Advanced Data Analytics using the Taiwan Longitudinal Study in Aging. In _IEEE International Conference on Human-Machine Systems (ICHMS)_. [Link](https://ieeexplore.ieee.org/abstract/document/10555712)
 
