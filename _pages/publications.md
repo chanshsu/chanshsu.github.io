@@ -11,7 +11,7 @@ Find below a selection of my publications and preprints; a full list can be foun
 - Shih-Yi Chien, Shiau-Fang Chao, Yihuang Kang, **Chan Hsu**, Meng-Hsuan Yu, Chan-Tung Ku. (2022). Understanding Predictive Factors of Dementia for Older Adults: A Machine Learning Approach for Modeling Dementia Influencers. _International Journal of Human-Computer Studies (IJHCS)_. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000611)
 
 ## Conference papers
-- En-Qi Tseng, Pei-Cing Huang, Chan Hsu, Peng-Yi Wu, Chan-Tung Ku, Yihuang Kang. (2024). CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback. In _IEEE BigData, WLLFM24 workshop_. 
+- En-Qi Tseng, Pei-Cing Huang, **Chan Hsu**, Peng-Yi Wu, Chan-Tung Ku, Yihuang Kang. (2024). CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback. In _IEEE BigData, WLLFM24 workshop_. 
 
 - Yu-Cheng Lin, **Chan Hsu**, Chun-Wang Wei. (2024). Identifying Anticancer Peptides from Amino Acid Sequences: A Novel Approach Based on Deep Neural Networks. In _IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)_. [**Best Paper**].
 
