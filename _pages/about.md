@@ -13,6 +13,7 @@ My research interests are Statistical Machine Learning, Interpretability, and Ca
 [Link to CV](files/ChanHsu_CV_pub.pdf)
 
 ### News
+- Nov '24: Our paper "CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback" was accepted by the WLLFM workshop in BigData 2024. 
 - Aug '24: In attending IEEE IRI & IEEE MIPR. Present three papers at the IRI, AIHC workshop, and BDH workshop.
 - Jun '24: Our paper "Understanding eGFR Trajectories and Kidney Function Decline via Large Multimodal Models" was accepted by the Big Data in Healthcare workshop.
 - May '24: Our papers "Causal Rule Forest: Toward Interpretable and Precise Treatment Effect Estimation" and "Subgroup analysis via Model-based Rule Forest" were accepted by the IEEE IRI and the IEEE AIHC workshop.
