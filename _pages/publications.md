@@ -8,7 +8,7 @@ author_profile: true
 Find below a selection of my publications and preprints; a full list can be found on [my google scholar profile](https://scholar.google.com/citations?user=qOfvi1oAAAAJ). 
 
 ## Journal Articles
-- Lee-Moay Lim, Ming-Yen Lin, **Chan Hsu**, Chantung Ku, Yi-Pei Chen, Yihuang Kang, Yi-Wen chiu. (2025). Computer-Assisted Prescription of Erythropoiesis-Stimulating Agents in Patients Undergoing Maintenance Hemodialysis: A Randomized Control Trial for AI Model Selection. _JAMIA Open_. [Link](https://doi.org/10.1093/jamiaopen/ooaf020)
+- Lee-Moay Lim, Ming-Yen Lin, **Chan Hsu**, Chantung Ku, Yi-Pei Chen, Yihuang Kang, Yi-Wen chiu. (2025). Computer-Assisted Prescription of Erythropoiesis-Stimulating Agents in Patients Undergoing Maintenance Hemodialysis: A Randomized Control Trial for AI Model Selection. _JAMIA Open_. [Link](https://academic.oup.com/jamiaopen/article/8/2/ooaf020/8097968?searchresult=1)
 - Shih-Yi Chien, Shiau-Fang Chao, Yihuang Kang, **Chan Hsu**, Meng-Hsuan Yu, Chan-Tung Ku. (2022). Understanding Predictive Factors of Dementia for Older Adults: A Machine Learning Approach for Modeling Dementia Influencers. _International Journal of Human-Computer Studies (IJHCS)_. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000611)
 
 ## Conference papers
