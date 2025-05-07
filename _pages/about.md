@@ -10,7 +10,7 @@ I'm a second-year doctoral student in the Department of Information Management a
 
 My research interests are Statistical Machine Learning, Interpretability, and Causality. If you would like to chat about potential collaboration or common interests, feel free to reach me at chanshsu@gmail.com.
 
-[Link to CV](files/ChanHsu_CV_pub.pdf)
+[Link to CV](../files/ChanHsu_CV_pub.pdf)
 
 ### News
 - Nov '24: Our paper "CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback" was accepted by the WLLFM workshop in BigData 2024. 
