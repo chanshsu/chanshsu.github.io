@@ -12,6 +12,10 @@ Find below a selection of my publications and preprints; a full list can be foun
 - Shih-Yi Chien, Shiau-Fang Chao, Yihuang Kang, **Chan Hsu**, Meng-Hsuan Yu, Chan-Tung Ku. (2022). Understanding Predictive Factors of Dementia for Older Adults: A Machine Learning Approach for Modeling Dementia Influencers. _International Journal of Human-Computer Studies (IJHCS)_. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000611)
 
 ## Conference papers
+- Po-Han Lee, Yu-Cheng Lin, Chan-Tung Ku, **Chan Hsu**, Pei-Cing Huang, Ping-Hsun Wu, Yihuang Kang. (2025). LLM-based Agents for Automated Confounder Discovery and Subgroup Analysis in Causal Inference. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AIHC workshop_. [Arxiv Link](https://arxiv.org/abs/2508.07221)
+
+- Hsien-Tsung Lin, Pei-Cing Huang, Chan-Tung Ku, **Chan Hsu**, Pei-Xuan Shieh, Yihuang Kang. (2025). Towards Simulating Social Influence Dynamics with LLM-based Multi-agents. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI). [Arxiv Link](https://arxiv.org/abs/2507.22467).
+
 - En-Qi Tseng, Pei-Cing Huang, **Chan Hsu**, Peng-Yi Wu, Chan-Tung Ku, Yihuang Kang. (2024). CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback. In _IEEE BigData, WLLFM24 workshop_. 
 
 - Yu-Cheng Lin, **Chan Hsu**, Chun-Wang Wei. (2024). Identifying Anticancer Peptides from Amino Acid Sequences: A Novel Approach Based on Deep Neural Networks. In _IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)_. [**Best Paper**].
