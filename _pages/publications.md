@@ -14,7 +14,7 @@ Find below a selection of my publications and preprints; a full list can be foun
 ## Conference papers
 - Po-Han Lee, Yu-Cheng Lin, Chan-Tung Ku, **Chan Hsu**, Pei-Cing Huang, Ping-Hsun Wu, Yihuang Kang. (2025). LLM-based Agents for Automated Confounder Discovery and Subgroup Analysis in Causal Inference. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI), AIHC workshop_. [Link](https://ieeexplore.ieee.org/abstract/document/11153124), [Arxiv Link](https://arxiv.org/abs/2508.07221)
 
-- Hsien-Tsung Lin, Pei-Cing Huang, Chan-Tung Ku, **Chan Hsu**, Pei-Xuan Shieh, Yihuang Kang. (2025). Towards Simulating Social Influence Dynamics with LLM-based Multi-agents. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI). [Link](https://ieeexplore.ieee.org/abstract/document/11153143), [Arxiv Link](https://arxiv.org/abs/2507.22467).
+- Hsien-Tsung Lin, Pei-Cing Huang, Chan-Tung Ku, **Chan Hsu**, Pei-Xuan Shieh, Yihuang Kang. (2025). Towards Simulating Social Influence Dynamics with LLM-based Multi-agents. In _IEEE International Conference on Information Reuse and Integration for Data Science (IRI)_. [Link](https://ieeexplore.ieee.org/abstract/document/11153143), [Arxiv Link](https://arxiv.org/abs/2507.22467).
 
 - En-Qi Tseng, Pei-Cing Huang, **Chan Hsu**, Peng-Yi Wu, Chan-Tung Ku, Yihuang Kang. (2024). CodEv: An Automated Grading Framework Leveraging Large Language Models for Consistent and Constructive Feedback. In _IEEE BigData, WLLFM24 workshop_. [Link](https://ieeexplore.ieee.org/abstract/document/10825949)
 
